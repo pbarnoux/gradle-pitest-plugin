@@ -30,9 +30,6 @@ repositories {
 
 sourceSets {
     funcTest {
-        java.srcDir file('src/funcTest/java')
-        groovy.srcDir file('src/funcTest/groovy')
-        resources.srcDir file('src/funcTest/resources')
     }
 }
 
